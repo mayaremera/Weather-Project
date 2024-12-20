@@ -1,0 +1,40 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+
+    color: #009AD8;
+    border: #009AD8 1px solid;
+    border-radius: 30px;
+    padding: 5px 25px;
+}
+.nav-link:focus, .nav-link:hover {
+    color: #009AD8;
+    border: #009AD8 1px solid;
+    border-radius: 30px;
+    padding: 5px 25px;
+}
+.hero-section {
+    background-image: url(../imgs/banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+}
+.forecast-container {
+    background-color: #323544;
+    color: white;
+    border-radius: 20px;
+}
+.second-section {
+    background-color: #1E202B;
+}
+footer {
+    background-color: #262936;
+}
+.icon-span {
+    background-color: #1E212C;
+}
+.footer-caption{
+    color: #BFC1C8;
+}
+
+.second-column{
+    background-color: #262936;
+}
